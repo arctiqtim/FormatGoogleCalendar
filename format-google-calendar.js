@@ -379,7 +379,7 @@ var formatGoogleCalendar = (function() {
     return {
         init: function (settingsOverride) {
             var settings = {
-                calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/milan.kacurak@gmail.com/events?key=AIzaSyCR3-ptjHE-_douJsn8o20oRwkxt-zHStY',
+                calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/arctiq.ca_bkdf5bg2vfq4st0q51brdg6ov8@group.calendar.google.com/events?key=AIzaSyBbFkftlUzRzAa69Rl9U_CKCtEF-r3CNLA',
                 past: true,
                 upcoming: true,
                 sameDayTimes: true,
